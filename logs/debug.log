@@ -1,0 +1,64 @@
+INFO 2024-04-17 15:51:34,415 autoreload 7636 13824 Watching for file changes with StatReloader
+INFO 2024-04-17 15:51:35,826 basehttp 7636 19064 "GET / HTTP/1.1" 200 10629
+WARNING 2024-04-17 15:51:36,162 log 7636 19064 Not Found: /favicon.ico
+WARNING 2024-04-17 15:51:36,162 basehttp 7636 19064 "GET /favicon.ico HTTP/1.1" 404 2115
+INFO 2024-04-17 15:51:39,774 basehttp 7636 19064 "GET /admin HTTP/1.1" 301 0
+INFO 2024-04-17 15:51:39,805 basehttp 7636 19188 "GET /admin/ HTTP/1.1" 200 17794
+INFO 2024-04-17 15:51:39,881 basehttp 7636 1596 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/css/all.min.css HTTP/1.1" 200 101784
+INFO 2024-04-17 15:51:39,883 basehttp 7636 19188 "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 200 238628
+INFO 2024-04-17 15:51:39,887 basehttp 7636 1596 "GET /static/admin/simpleui-x/css/index.css?_=3.2 HTTP/1.1" 200 6994
+INFO 2024-04-17 15:51:39,888 basehttp 7636 19188 "GET /static/admin/simpleui-x/waves/waves.min.css?_=2.1 HTTP/1.1" 200 3861
+INFO 2024-04-17 15:51:39,892 basehttp 7636 19188 "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 200 115997
+INFO 2024-04-17 15:51:39,892 basehttp 7636 1596 "GET /static/admin/simpleui-x/js/vue.min.js?_=2024.4.1 HTTP/1.1" 200 93675
+INFO 2024-04-17 15:51:39,896 basehttp 7636 1596 "GET /static/admin/simpleui-x/automatic/dicts.js?_=2024.4.1 HTTP/1.1" 200 12677
+INFO 2024-04-17 15:51:39,899 basehttp 7636 19188 "GET /static/admin/simpleui-x/elementui/index.js?_=2024.4.1 HTTP/1.1" 200 586253
+INFO 2024-04-17 15:51:39,902 basehttp 7636 1596 "GET /static/admin/simpleui-x/automatic/segment.js?_=2024.4.1 HTTP/1.1" 200 1194
+INFO 2024-04-17 15:51:39,904 basehttp 7636 19188 "GET /static/admin/simpleui-x/locale/en-us.js?_=2024.4.1 HTTP/1.1" 200 811
+INFO 2024-04-17 15:51:39,906 basehttp 7636 1596 "GET /static/admin/simpleui-x/js/cookie.js?_=2024.4.1 HTTP/1.1" 200 524
+INFO 2024-04-17 15:51:39,906 basehttp 7636 19188 "GET /static/admin/simpleui-x/theme/theme.js?_=2024.4.1 HTTP/1.1" 200 4274
+INFO 2024-04-17 15:51:39,909 basehttp 7636 1596 "GET /static/admin/simpleui-x/waves/waves.min.js?_=2024.4.1 HTTP/1.1" 200 6329
+INFO 2024-04-17 15:51:39,909 basehttp 7636 19188 "GET /static/admin/simpleui-x/js/menu.js?_=2024.4.1 HTTP/1.1" 200 1216
+INFO 2024-04-17 15:51:39,911 basehttp 7636 1596 "GET /static/admin/simpleui-x/js/index.js?_=2024.4.1 HTTP/1.1" 200 21589
+INFO 2024-04-17 15:51:40,024 basehttp 7636 19188 "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 200 28200
+INFO 2024-04-17 15:51:40,025 basehttp 7636 1596 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 150472
+INFO 2024-04-17 15:51:40,028 basehttp 7636 19188 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 25096
+INFO 2024-04-17 15:51:40,030 basehttp 7636 1596 "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-brands-400.woff2 HTTP/1.1" 200 107460
+INFO 2024-04-17 15:51:49,648 basehttp 7636 1596 "GET /admin/auth/group/ HTTP/1.1" 200 29247
+INFO 2024-04-17 15:51:49,659 basehttp 7636 20252 "GET /static/admin/simpleui-x/theme/simpleui.css HTTP/1.1" 200 4270
+INFO 2024-04-17 15:51:49,659 basehttp 7636 19188 "GET /static/admin/simpleui-x/css/base.css?_=2.7 HTTP/1.1" 200 4638
+INFO 2024-04-17 15:51:49,660 basehttp 7636 1596 "GET /static/admin/css/base.css?_=2.7 HTTP/1.1" 200 21544
+INFO 2024-04-17 15:51:49,661 basehttp 7636 6696 "GET /static/admin/css/changelists.css?_=20180905 HTTP/1.1" 200 6811
+INFO 2024-04-17 15:51:49,661 basehttp 7636 18744 "GET /static/admin/simpleui-x/js/language.js?_=2.1.2 HTTP/1.1" 200 189
+INFO 2024-04-17 15:51:49,661 basehttp 7636 17840 "GET /static/admin/simpleui-x/locale/en-us.js?_=2.1.2 HTTP/1.1" 200 811
+INFO 2024-04-17 15:51:49,664 basehttp 7636 6696 "GET /static/admin/simpleui-x/js/cookie.js HTTP/1.1" 200 524
+INFO 2024-04-17 15:51:49,664 basehttp 7636 19188 "GET /static/admin/simpleui-x/locale/en-us.js HTTP/1.1" 200 811
+INFO 2024-04-17 15:51:49,666 basehttp 7636 20252 "GET /static/admin/css/responsive.css?_=20180905 HTTP/1.1" 200 17905
+INFO 2024-04-17 15:51:49,669 basehttp 7636 17840 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-04-17 15:51:49,673 basehttp 7636 1596 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-04-17 15:51:49,675 basehttp 7636 20252 "GET /static/admin/js/actions.js HTTP/1.1" 200 8067
+INFO 2024-04-17 15:51:49,675 basehttp 7636 19188 "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2024-04-17 15:51:49,675 basehttp 7636 6696 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9042
+INFO 2024-04-17 15:51:49,675 basehttp 7636 18744 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2024-04-17 15:51:49,678 basehttp 7636 17840 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-04-17 15:51:49,680 basehttp 7636 1596 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-04-17 15:51:49,681 basehttp 7636 19188 "GET /static/admin/simpleui-x/automatic/dicts.js HTTP/1.1" 200 12677
+INFO 2024-04-17 15:51:49,681 basehttp 7636 6696 "GET /static/admin/simpleui-x/automatic/segment.js HTTP/1.1" 200 1194
+INFO 2024-04-17 15:51:49,682 basehttp 7636 20252 "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 200 87533
+INFO 2024-04-17 15:51:49,684 basehttp 7636 18744 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2024-04-17 15:51:49,686 basehttp 7636 17840 "GET /static/admin/simpleui-x/js/axios.min.js HTTP/1.1" 200 14237
+INFO 2024-04-17 15:51:51,142 basehttp 7636 18744 "GET /admin/auth/user/ HTTP/1.1" 200 35002
+INFO 2024-04-17 15:51:51,155 basehttp 7636 17840 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-04-17 15:51:51,162 basehttp 7636 18744 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2024-04-17 15:51:51,234 basehttp 7636 18744 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2024-04-17 15:52:07,064 basehttp 7636 18744 "GET /static/admin/simpleui-x/theme/highdmin.css HTTP/1.1" 200 4375
+INFO 2024-04-17 15:52:14,927 basehttp 7636 18744 "GET /admin/password_change/?dialog=1 HTTP/1.1" 200 7532
+INFO 2024-04-17 15:52:14,935 basehttp 7636 18744 "GET /static/admin/css/forms.css HTTP/1.1" 200 9090
+INFO 2024-04-17 15:52:14,980 basehttp 7636 18744 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11800
+INFO 2024-04-17 16:09:13,246 autoreload 7636 13824 E:\BaiduSyncdisk\djangoPro\djangoTest1\user\models.py changed, reloading.
+INFO 2024-04-17 16:09:13,789 autoreload 18140 18548 Watching for file changes with StatReloader
+INFO 2024-04-17 16:10:10,299 autoreload 18140 18548 E:\BaiduSyncdisk\djangoPro\djangoTest1\user\models.py changed, reloading.
+INFO 2024-04-17 16:10:10,744 autoreload 7472 20408 Watching for file changes with StatReloader
+INFO 2024-04-17 16:38:01,757 autoreload 7472 20408 E:\BaiduSyncdisk\djangoPro\djangoTest1\user\models.py changed, reloading.
+INFO 2024-04-17 16:38:02,225 autoreload 6168 18236 Watching for file changes with StatReloader
+INFO 2024-04-17 16:39:14,749 autoreload 6168 18236 E:\BaiduSyncdisk\djangoPro\djangoTest1\user\models.py changed, reloading.
+INFO 2024-04-17 16:39:15,216 autoreload 1636 7364 Watching for file changes with StatReloader
